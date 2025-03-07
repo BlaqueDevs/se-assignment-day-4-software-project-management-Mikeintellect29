@@ -29,7 +29,7 @@ How Project Managers Can Ensure Deadlines Are Met:
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
-Effective cost control is a key factor in the success of a software project because it ensures that the project is completed within its allocated budget, contributing to overall project viability and client satisfaction. the following are key factors;
+Effective cost control is a key factor in the success of a software project because it ensures that the project is completed within its allocated budget, contributing to overall project viability and client satisfaction. the following are key factors.
 
 1- Ensures Financial Viability
 
